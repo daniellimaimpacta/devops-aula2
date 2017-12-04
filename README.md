@@ -6,7 +6,7 @@ ATORES E ATRIZES:
 ATORES: 
 
 morgan freeman
-denzel washington
+Jonhy Deep
 keanu reeves
 
 ATRIZES: 
@@ -14,3 +14,4 @@ ATRIZES:
 Cobie Smulders
 Laura Prepon
 Jennifer aniston
+gwyneth paltrow
